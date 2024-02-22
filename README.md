@@ -2,12 +2,12 @@
 
 ## Overview
 
-This repository contains a Python script for creating bubble charts to visualize patient data using `matplotlib` and `seaborn`. Each patient's data is displayed as a set of bubbles in a grid layout. This kind of chart is usually used to present a research result.
+This repository contains a Python script for creating bubble charts to visualize authors data using `matplotlib` and `seaborn`. Each authors's data is displayed as a set of bubbles in a grid layout. This kind of chart is usually used to present a research result.
 
 ## Features
 
-- Visualize patient data with customizable bubble charts.
-- Automatically scale charts based on patient values.
+- Visualize authors data with customizable bubble charts.
+- Automatically scale charts based on authors values.
 
 ## Prerequisites
 
@@ -27,7 +27,7 @@ This repository contains a Python script for creating bubble charts to visualize
 
 ## Usage
 
-1. Define patient data in the `patients` dictionary.
+1. Define authors data in input file
 2. Run the script to generate the bubble charts.
 
 ## Author
